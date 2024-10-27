@@ -14,6 +14,7 @@ public class NewBehaviourScript : MonoBehaviour
 	       }
            x++;
        }
+       Debug.Log("test github commit");
     }
 
     // Update is called once per frame
